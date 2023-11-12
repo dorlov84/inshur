@@ -1,6 +1,0 @@
-com\inshur\shared\datalayer\DataRepository.class
-com\inshur\shared\datalayer\WeatherRequestHistoryRepository.class
-com\inshur\shared\model\WeatherRequestHistory.class
-com\inshur\shared\datalayer\LocalFileDataRepository.class
-com\inshur\shared\net\HttpManager.class
-com\inshur\shared\net\HttpManagerImpl.class
